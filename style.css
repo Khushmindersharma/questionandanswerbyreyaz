@@ -1,0 +1,38 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;;
+  font-size: 20px;
+  background: #00cc66;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: #3fa2f3;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.multi-line {
+  white-space: pre-wrap;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #e9f1ff;
+  border-radius: 5px;
+}
+
+.navigation {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+}
+
